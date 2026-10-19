@@ -1,8 +1,8 @@
 {
   "version": 2,
   "functions": {
-    "api/**/*.js": {
-      "includeFiles": "data/**"
+    "api/*.js": {
+      "includeFiles": "{data/**,node_modules/node-sqlite3-wasm/dist/**}"
     }
   },
   "rewrites": [
