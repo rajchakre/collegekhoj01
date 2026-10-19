@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Indian Institute of Technology Delhi",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "contact_number": "011-26591000",
+    "courses": ["B.Tech", "M.Tech", "PhD", "MBA"]
+  },
+  {
+    "id": 2,
+    "name": "Indian Institute of Technology Bombay",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "contact_number": "022-25722545",
+    "courses": ["B.Tech", "M.Tech", "PhD", "M.Sc"]
+  },
+  {
+    "id": 3,
+    "name": "Indian Institute of Technology Madras",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "contact_number": "044-22578200",
+    "courses": ["B.Tech", "M.Tech", "PhD", "M.Sc"]
+  },
+  {
+    "id": 4,
+    "name": "Indian Institute of Technology Kharagpur",
+    "city": "Kharagpur",
+    "state": "West Bengal",
+    "contact_number": "03222-255221",
+    "courses": ["B.Tech", "M.Tech", "PhD", "MBA"]
+  },
+  {
+    "id": 5,
+    "name": "Indian Institute of Technology Kanpur",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "contact_number": "0512-2590123",
+    "courses": ["B.Tech", "M.Tech", "PhD"]
+  },
+  {
+    "id": 6,
+    "name": "BITS Pilani",
+    "city": "Pilani",
+    "state": "Rajasthan",
+    "contact_number": "01596-515222",
+    "courses": ["B.E", "M.E", "MBA", "M.Sc", "PhD"]
+  },
+  {
+    "id": 7,
+    "name": "NIT Trichy",
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "contact_number": "0431-2503000",
+    "courses": ["B.Tech", "M.Tech", "MBA", "MCA"]
+  },
+  {
+    "id": 8,
+    "name": "NIT Warangal",
+    "city": "Warangal",
+    "state": "Telangana",
+    "contact_number": "0870-2459191",
+    "courses": ["B.Tech", "M.Tech", "MBA", "PhD"]
+  },
+  {
+    "id": 9,
+    "name": "Delhi University",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "contact_number": "011-27667011",
+    "courses": ["B.A", "B.Sc", "B.Com", "M.A", "M.Sc", "PhD"]
+  },
+  {
+    "id": 10,
+    "name": "Jadavpur University",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "contact_number": "033-24146000",
+    "courses": ["B.E", "M.E", "B.Sc", "M.Sc", "PhD"]
+  },
+  {
+    "id": 11,
+    "name": "Anna University",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "contact_number": "044-22357004",
+    "courses": ["B.E", "M.E", "M.Tech", "MBA", "MCA", "PhD"]
+  },
+  {
+    "id": 12,
+    "name": "Pune University",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "contact_number": "020-25601212",
+    "courses": ["B.A", "B.Sc", "B.Com", "M.A", "M.Sc", "MBA", "PhD"]
+  },
+  {
+    "id": 13,
+    "name": "Osmania University",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "contact_number": "040-27090000",
+    "courses": ["B.A", "B.Sc", "B.Com", "M.A", "M.Sc", "MBA", "LLB"]
+  },
+  {
+    "id": 14,
+    "name": "Bangalore University",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "contact_number": "080-22961999",
+    "courses": ["B.A", "B.Sc", "B.Com", "M.A", "M.Sc", "MBA"]
+  },
+  {
+    "id": 15,
+    "name": "Calcutta University",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "contact_number": "033-22410071",
+    "courses": ["B.A", "B.Sc", "B.Com", "M.A", "M.Sc", "LLB", "PhD"]
+  },
+  {
+    "id": 16,
+    "name": "Amity University",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "contact_number": "0120-4392000",
+    "courses": ["B.Tech", "MBA", "BBA", "B.Sc", "M.Sc", "LLB"]
+  },
+  {
+    "id": 17,
+    "name": "Manipal Academy",
+    "city": "Manipal",
+    "state": "Karnataka",
+    "contact_number": "0820-2922642",
+    "courses": ["MBBS", "B.Tech", "BDS", "B.Pharm", "MBA"]
+  },
+  {
+    "id": 18,
+    "name": "VIT University",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "contact_number": "0416-2202020",
+    "courses": ["B.Tech", "M.Tech", "MBA", "MCA", "PhD"]
+  },
+  {
+    "id": 19,
+    "name": "SRM University",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "contact_number": "044-27417000",
+    "courses": ["B.Tech", "M.Tech", "MBBS", "MBA", "MCA"]
+  },
+  {
+    "id": 20,
+    "name": "Symbiosis International",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "contact_number": "020-28116226",
+    "courses": ["MBA", "BBA", "B.Tech", "LLB", "MBBS"]
+  }
+]

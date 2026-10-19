@@ -40,8 +40,19 @@ app.get('/api/stats', (req, res) => {
   }
 });
 
+const fs = require('fs');
+
+app.all('/api/*', (req, res) => {
+  res.status(404).json({ error: 'Endpoint not found' });
+});
+
 app.get('*', (req, res) => {
-  res.sendFile(path.join(__dirname, '..', 'public', 'index.html'));
+  const indexPath = path.join(__dirname, '..', 'public', 'index.html');
+  if (fs.existsSync(indexPath)) {
+    res.sendFile(indexPath);
+  } else {
+    res.status(404).send('Page not found');
+  }
 });
 
 // Centralized error handler
